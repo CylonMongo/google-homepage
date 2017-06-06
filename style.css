@@ -1,0 +1,52 @@
+
+.header {
+	text-align: right;
+	padding: 10px 10px;
+	margin: 0px;
+}
+.logo {
+	: center;
+}
+
+body { 
+	text-align: -webkit-center;
+}
+
+img {
+	padding: 150 0 0;
+    height: 125px;
+}
+
+a {
+	text-decoration: none;
+    opacity: .75;
+    font-family: small arial,sans-serif;
+    font-size: 18px;
+	color: #3c3939;
+	padding: 0 8px;
+  }
+
+  input.search.box{ 
+	width: 67%;
+    height: 40px
+   }
+
+   input.search.box{
+    background-image: url(https://lh3.ggpht.com/8n0udQiY_ve4bYNQNDAvOTOIxUAlAmbqkFAXcFpPQr0phTswsdjWN_Vntq5us-Tr-hpl=w300);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+  }
+
+input.search.box {
+    font-size: 1.5em;
+    opacity: .75;
+}
+
+ul {
+	list-style-type: none;
+	display: inline;
+}
+li{
+	display: inline;
+}
